@@ -78,7 +78,7 @@ und führt die Aktion aus (siehe unten).
 
 Im Anschluss ist der linke Nachbar an der Reihe.
 
-## Aktionskarten
+### Aktionskarten
 
 **Aussetzen**: Es wird keine Aktion ausgeführt. (Der nächste Spieler ist direkt an der Reihe.)
 
