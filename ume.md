@@ -1,10 +1,11 @@
 # Umé
 
-Umé ist ein offenes Kartenspiel, d.h. jeder Spieler kann die Karten der anderen
-Spieler sehen.
-Spieler sammeln Zahlkarten in vier verschiedenen Farben.
-Ziel ist es, als erster Spieler die Karten so liegen zu haben,
-dass die Zahl-Summen von drei der vier Farben eine bestimte Folge von Zahlen ergibt.
+Bei Umé sammeln die Spieler Zahlkarten in vier verschiedenen Farben.
+Jeder Spieler kann die Karten der anderen Spieler sehen.
+Ziel ist es, als erster Spieler eine bestimmte Folge von Zahlsummen gesammelt zu haben.
+
+In diesem Spiel müssen die Spieler relativ viel rechnen (addieren und subtrahieren).
+Es ist also eine gute Übung des "kleinen Einspluseins" ;-)
 
 ## Man benötigt...
 
@@ -20,31 +21,34 @@ bestehend aus 108 Spielkarten:
 
 > Achtung: Die Zahlkarte 0 zählt im Folgenden immer als 10.
 
-Da man im Spiel oft addieren muss und sich die Summen merken muss,
-empfiehlt sich ein Notizzettel, wo man sich die Summen aufschreiben kann.
+Es empfiehlt sich, dass jeder Spieler ein Notizzettel und einen Stift hat,
+damit er sich Summen notieren kann.
 
 ## Spielvorbereitung
 
 Die Karten werden gemischt und als **Nachziehstapel** in die Mitte des Tisches gelegt.
 
-Jeder Spieler zieht acht Karten und legt sie offen vor sich hin.
-Dies ist die **Basis** des Spielers.
-Es empfiehlt sich, die Basis farblich in eine Blau-Basis, Grün-Basis, Rot-Basis und Gelb-Basis
-zu trennen und die Zahlkarten in den einzelnen Farb-Basen aufsteigend zu sortieren.
-
-Jeder Spieler nimmt alle Nicht-Zahlkarten (also +2, Retour, Aussetzen, Joker, +4-Joker)
-aus seiner Basis und legt sie offen auf einen Stapel neben den Nachziehstapel.
+Ein Spieler zieht eine Karte vom Nachziehstapel.
+Ist es keine Zahlkarte (sondern +2, Retour, Aussetzen, Joker, +4-Joker),
+so legt er sie offen auf einen Stapel neben den Nachziehstapel.
 Dieser Stapel ist die **Ablage**.
+Dies wiederholt er so lange, bis er eine Zahlkarte gezogen hat.
+Danach ist der linke Nachbar an der Reihe.
 
-Die Spieler addieren für jede Farbe einzeln die Zahlen auf ihren Basis-Zahlkarten
+Dies wird so lange wiederholt, bis jeder Spieler acht Zahlkarten offen vor sich liegen hat.
+Diese Karten bezeichnen wir als **Basis** des Spielers.
+Es empfiehlt sich, die Basis farblich in eine Blau-Basis, Grün-Basis, Rot-Basis und Gelb-Basis
+zu trennen und die Zahlkarten in diesen einzelnen Farb-Basen zu sortieren.
+
+Alle Spieler addieren die Zahlen in jeder Farb-Basis auf (die 0 zählt immer als 10!)
 und sagen die Summen laut an.
-Der Spieler, der die höchste Zahl genannt hat (bei Gleichstand der Kleinere),
-nimmt diese Anzahl an Karten verdeckt vom Nachziehstapel
-und dazu die Ablage auf die Hand,
-vermischt diese Karten und legt sie verdeckt auf den Nachziehstapel.
+Der Spieler, der als erstes fertig ist, nimmt die Ablage (in der sich derzeit nur
+Aktionskarten befinden) und eine beliebige Menge an Karten vom Nachziehstapel,
+vermischt diese Karten und legt sie erneut verdeckt auf den Nachziehstapel.
 (Die Ablage ist jetzt also leer.)
 
-Der linke Nachbar beginnt nun das Spiel.
+Der Spieler, der die höchste Zahl genannt hat, beginnt das Spiel.
+Haben mehrere Spieler die höchste Zahl, so beginnt der (körperlich) Kleinere.
 
 ## Spielablauf
 
@@ -64,19 +68,24 @@ Im Anschluss ist der linke Nachbar an der Reihe.
 
 **Aussetzen**: Es wird keine Aktion ausgeführt. (Der nächste Spieler ist direkt an der Reihe.)
 
-**Retour**: Der Spieler nimmt entweder eine beliebige Karte aus der Basis eines anderen
-Spielers und legt sie in seine Basis, oder er nimmt eine beliebige Karte aus seiner Basis
-und legt sie in die Basis eines anderen Spielers.
+**Retour** (farbbezogen):
+Der Spieler nimmt entweder eine beliebige Karte gleicher Farbe aus der Basis eines anderen
+Spielers und legt sie in seine Basis, oder er nimmt eine beliebige Karte gleicher Farbe aus
+seiner Basis und legt sie in die Basis eines anderen Spielers.
+In dem Fall, dass *kein* Spieler eine Karte dieser Farbe hat, zählt diese Karte wie Aussetzen.
 
-**+2**: Der Spieler legt zwei Karten der selben Farbe aus seiner Basis in die Ablage.
+**+2** (farbbezogen):
+Der Spieler legt zwei Karten gleicher Farbe aus seiner Basis in die Ablage.
 Hat der Spieler nur eine Karte dieser Farbe in seiner Basis, so nimmt er die restliche
 Karte mit dieser Farbe aus der Basis eines anderen Spielers und legt sie in die Ablage.
 Hat der Spieler keine Karte dieser Farbe in seiner Basis, so nimmt er zwei Karten dieser
 Farbe von anderen Spielern und legt sie in die Ablage.
+Gibt es bei anderen Spielern diese Farbe auch nicht (mehr), so tut er nichts.
 
 **+4-Joker**: Der Spieler legt aus jeder seiner Farb-Basen eine Karte in die Ablage.
 Hat er für einer Farbe keine Karten, so wählt er eine Karte aus der entsprechenden Farb-Basis
 eines anderen Spielers und legt sie in die Ablage.
+Gibt es bei anderen Spielern diese Farbe auch nicht, so tut er nichts.
 
 **Joker**: Der Spieler nennt eine Farbe und alle Spieler (auch er selbst) legen die
 Karte mit der kleinsten Zahl und Karte mit der größten Zahl aus ihrer entsprechenden
@@ -85,12 +94,14 @@ Sollte ein Spieler keine Karte dieser Farbe (mehr) haben, tut er nichts.
 
 ## Ziel des Spiels
 
-Jeder Spieler sollte ständig die Summe seiner Farb-Basen im Blick haben.
 Eine Farb-Basis zählt als **aktiv**, wenn sich mindestens zwei Karten darin befinden.
-
-Sobald ein Spieler aus den Summe von drei aktiven Farb-Basen eine Folge von drei Zahlen
+Jeder Spieler sollte ständig die Summe seiner Farb-Basen im Blick haben.
+(Daher wird ein Notizzettel empfohlen.)
+Sobald ein Spieler aus der Summe von drei aktiven Farb-Basen eine Folge von drei Zahlen
 bilden kann, die den gleichen Abstand haben, gewinnt er. (Wenn Beispielsweise die
 Blau-Summe 8, die Grün-Summe 4, die Rot-Summe 11 und die Gelb-Summe 14 ist, dann gibt
 es die Folge 8, 11, 14, jeweils mit Abstand 3, und der Spieler hat gewonnen.)
+
 Dies kann auch passieren, wenn der Spieler selbst nicht an der Reihe ist,
-durch eine Aktion eines anderen Spielers.
+zum Beispiel durch eine Aktion eines anderen Spielers oder direkt nach dem Austeilen
+der Karten.
