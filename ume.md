@@ -140,3 +140,8 @@ Farb-Basis gehört.
 Zieht ein Spieler eine +2-Karte oder +4-Karte, so darf er nach dem Ausführen der Aktion
 noch eine Karte ziehen (und muss im Falle einer Aktionskarte auch die entsprechende Aktion
 ausführen).
+
+## Feedback
+
+Falls Du das Spiel gespielt hast und Feedback oder Ideen hast, mach bitte eine Issue
+auf oder kontaktiere mich via E-Mail: s-beyer@gmx.net
