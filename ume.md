@@ -50,6 +50,20 @@ vermischt diese Karten und legt sie erneut verdeckt auf den Nachziehstapel.
 Der Spieler, der die höchste Zahl genannt hat, beginnt das Spiel.
 Haben mehrere Spieler die höchste Zahl, so beginnt der (körperlich) Kleinere.
 
+## Ziel des Spiels
+
+Eine Farb-Basis zählt als **aktiv**, wenn sich mindestens zwei Karten darin befinden.
+Jeder Spieler sollte ständig die Summe seiner Farb-Basen im Blick haben.
+(Daher wird ein Notizzettel empfohlen.)
+Sobald ein Spieler aus der Summe von drei aktiven Farb-Basen eine Folge von drei Zahlen
+bilden kann, die den gleichen Abstand haben, gewinnt er. (Wenn Beispielsweise die
+Blau-Summe 8, die Grün-Summe 4, die Rot-Summe 11 und die Gelb-Summe 14 ist, dann gibt
+es die Folge 8, 11, 14, jeweils mit Abstand 3, und der Spieler hat gewonnen.)
+
+Dies kann auch passieren, wenn der Spieler selbst nicht an der Reihe ist,
+zum Beispiel durch eine Aktion eines anderen Spielers oder direkt nach dem Austeilen
+der Karten.
+
 ## Spielablauf
 
 Der Spieler an der Reihe hat zwei Möglichkeiten:
@@ -91,17 +105,3 @@ Gibt es bei anderen Spielern diese Farbe auch nicht, so tut er nichts.
 Karte mit der kleinsten Zahl und Karte mit der größten Zahl aus ihrer entsprechenden
 Farb-Basis in die Ablage.
 Sollte ein Spieler keine Karte dieser Farbe (mehr) haben, tut er nichts.
-
-## Ziel des Spiels
-
-Eine Farb-Basis zählt als **aktiv**, wenn sich mindestens zwei Karten darin befinden.
-Jeder Spieler sollte ständig die Summe seiner Farb-Basen im Blick haben.
-(Daher wird ein Notizzettel empfohlen.)
-Sobald ein Spieler aus der Summe von drei aktiven Farb-Basen eine Folge von drei Zahlen
-bilden kann, die den gleichen Abstand haben, gewinnt er. (Wenn Beispielsweise die
-Blau-Summe 8, die Grün-Summe 4, die Rot-Summe 11 und die Gelb-Summe 14 ist, dann gibt
-es die Folge 8, 11, 14, jeweils mit Abstand 3, und der Spieler hat gewonnen.)
-
-Dies kann auch passieren, wenn der Spieler selbst nicht an der Reihe ist,
-zum Beispiel durch eine Aktion eines anderen Spielers oder direkt nach dem Austeilen
-der Karten.
