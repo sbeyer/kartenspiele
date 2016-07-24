@@ -105,3 +105,38 @@ Gibt es bei anderen Spielern diese Farbe auch nicht, so tut er nichts.
 Karte mit der kleinsten Zahl und Karte mit der größten Zahl aus ihrer entsprechenden
 Farb-Basis in die Ablage.
 Sollte ein Spieler keine Karte dieser Farbe (mehr) haben, tut er nichts.
+
+## Varianten
+
+Verschiedene Varianten des Spiels sind denkbar.
+
+### Rundenbasiertes Umé
+
+Wenn jemand gewinnt, gewinnt er nicht das Spiel sondern nur eine Runde.
+Statt der Anzahl der Siege kann hierbei auch eine Punktzahl notiert werden,
+zum Beispiel die Summe der größten Farbbasis jedes Spielers (und 0 beim Gewinner).
+Wer am Ende des Spiels die kleinste Gesamtpunktzahl hat, gewinnt.
+
+### Schutz vor Grabschern, statt Aussetzen
+
+Die Aussetzen-Karte ist eine Farbkarte, wird in Umé aber nicht farbbezogen verwendet.
+Wir definieren die Karte als "Schutzkarte" um.
+
+Bei der Spielvorbereitung wird die Aussetzen-Karte nicht in die Ablage, sondern in die
+entsprechende Farb-Basis gelegt.
+Der Spieler darf aber trotzdem weiter ziehen, bis er eine Farbkarte hat.
+Aussetzen-Karten werden nicht bei den "acht Karten" mitgezählt.
+
+Wird während des Spiels eine Aussetzen-Karte gezogen, so wird diese auch einfach in die
+entsprechende Farb-Basis gelegt (sonst keine weitere Aktion ausgeführt).
+
+Führt ein Spieler die Aktion einer +2-, +4-Joker- oder Retour-Karte aus,
+so darf er Farb-Basen, wo eine Schutzkarte liegt, nur verändern, wenn er
+für die gewünschte Aktion die Erlaubnis desjenigen bekommt, dem die entsprechende
+Farb-Basis gehört.
+
+### +2/+4-Joker mit Nachziehen
+
+Zieht ein Spieler eine +2-Karte oder +4-Karte, so darf er nach dem Ausführen der Aktion
+noch eine Karte ziehen (und muss im Falle einer Aktionskarte auch die entsprechende Aktion
+ausführen).
